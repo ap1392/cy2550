@@ -1,0 +1,184 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 19:25 ?        00:00:02 /sbin/init splash
+root           2       0  0 19:25 ?        00:00:00 [kthreadd]
+root           3       2  0 19:25 ?        00:00:00 [rcu_gp]
+root           4       2  0 19:25 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 19:25 ?        00:00:00 [slub_flushwq]
+root           6       2  0 19:25 ?        00:00:00 [netns]
+root           8       2  0 19:25 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 19:25 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 19:25 ?        00:00:00 [rcu_tasks_kthread]
+root          12       2  0 19:25 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          13       2  0 19:25 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          14       2  0 19:25 ?        00:00:00 [ksoftirqd/0]
+root          15       2  0 19:25 ?        00:00:00 [rcu_preempt]
+root          16       2  0 19:25 ?        00:00:00 [migration/0]
+root          17       2  0 19:25 ?        00:00:00 [idle_inject/0]
+root          18       2  0 19:25 ?        00:00:03 [kworker/0:1-events]
+root          19       2  0 19:25 ?        00:00:00 [cpuhp/0]
+root          20       2  0 19:25 ?        00:00:00 [kdevtmpfs]
+root          21       2  0 19:25 ?        00:00:00 [inet_frag_wq]
+root          22       2  0 19:25 ?        00:00:00 [kauditd]
+root          23       2  0 19:25 ?        00:00:00 [khungtaskd]
+root          24       2  0 19:25 ?        00:00:00 [oom_reaper]
+root          27       2  0 19:25 ?        00:00:00 [writeback]
+root          28       2  0 19:25 ?        00:00:00 [kcompactd0]
+root          29       2  0 19:25 ?        00:00:00 [ksmd]
+root          30       2  0 19:25 ?        00:00:00 [khugepaged]
+root          31       2  0 19:25 ?        00:00:00 [kintegrityd]
+root          32       2  0 19:25 ?        00:00:00 [kblockd]
+root          33       2  0 19:25 ?        00:00:00 [blkcg_punt_bio]
+root          34       2  0 19:25 ?        00:00:00 [tpm_dev_wq]
+root          35       2  0 19:25 ?        00:00:00 [ata_sff]
+root          36       2  0 19:25 ?        00:00:00 [md]
+root          37       2  0 19:25 ?        00:00:00 [edac-poller]
+root          38       2  0 19:25 ?        00:00:00 [devfreq_wq]
+root          39       2  0 19:25 ?        00:00:00 [watchdogd]
+root          40       2  0 19:25 ?        00:00:02 [kworker/0:1H-kblockd]
+root          41       2  0 19:25 ?        00:00:00 [kswapd0]
+root          42       2  0 19:25 ?        00:00:00 [ecryptfs-kthread]
+root          48       2  0 19:25 ?        00:00:00 [kthrotld]
+root          52       2  0 19:25 ?        00:00:00 [acpi_thermal_pm]
+root          53       2  0 19:25 ?        00:00:00 [xenbus_probe]
+root          54       2  0 19:25 ?        00:00:00 [scsi_eh_0]
+root          55       2  0 19:25 ?        00:00:00 [scsi_tmf_0]
+root          56       2  0 19:25 ?        00:00:00 [scsi_eh_1]
+root          57       2  0 19:25 ?        00:00:00 [scsi_tmf_1]
+root          58       2  0 19:25 ?        00:00:00 [vfio-irqfd-clea]
+root          60       2  0 19:25 ?        00:00:00 [mld]
+root          61       2  0 19:25 ?        00:00:00 [ipv6_addrconf]
+root          66       2  0 19:25 ?        00:00:00 [kstrp]
+root          72       2  0 19:25 ?        00:00:00 [zswap-shrink]
+root          73       2  0 19:25 ?        00:00:00 [kworker/u3:0]
+root         119       2  0 19:25 ?        00:00:00 [charger_manager]
+root         159       2  0 19:25 ?        00:00:00 [kworker/0:3-events]
+root         160       2  0 19:25 ?        00:00:00 [scsi_eh_2]
+root         162       2  0 19:25 ?        00:00:00 [scsi_tmf_2]
+root         184       2  0 19:25 ?        00:00:00 [jbd2/sda3-8]
+root         185       2  0 19:25 ?        00:00:00 [ext4-rsv-conver]
+root         224       1  0 19:25 ?        00:00:00 /lib/systemd/systemd-journald
+root         257       2  0 19:25 ?        00:00:00 [irq/18-vmwgfx]
+root         258       2  0 19:25 ?        00:00:00 [card0-crtc0]
+root         259       2  0 19:25 ?        00:00:00 [card0-crtc1]
+root         261       2  0 19:25 ?        00:00:00 [card0-crtc2]
+root         262       2  0 19:25 ?        00:00:00 [card0-crtc3]
+root         263       2  0 19:25 ?        00:00:00 [card0-crtc4]
+root         264       2  0 19:25 ?        00:00:00 [card0-crtc5]
+root         265       2  0 19:25 ?        00:00:00 [card0-crtc6]
+root         266       2  0 19:25 ?        00:00:00 [card0-crtc7]
+root         275       1  0 19:25 ?        00:00:00 /lib/systemd/systemd-udevd
+root         357       2  0 19:25 ?        00:00:00 [cryptd]
+systemd+     408       1  0 19:25 ?        00:00:01 /lib/systemd/systemd-oomd
+systemd+     409       1  0 19:25 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     411       1  0 19:25 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         618       1  0 19:25 ?        00:00:00 /usr/libexec/accounts-daemon
+root         619       1  0 19:25 ?        00:00:00 /usr/sbin/acpid
+avahi        621       1  0 19:25 ?        00:00:00 avahi-daemon: running [aditya-VirtualBox.local]
+root         622       1  0 19:25 ?        00:00:00 /usr/sbin/cron -f -P
+message+     624       1  0 19:25 ?        00:00:01 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         626       1  0 19:25 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         639       1  0 19:25 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         643       1  0 19:25 ?        00:00:01 /usr/libexec/polkitd --no-debug
+root         644       1  0 19:25 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       646       1  0 19:25 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         653       1  0 19:25 ?        00:00:03 /usr/lib/snapd/snapd
+root         656       1  0 19:25 ?        00:00:00 /usr/libexec/switcheroo-control
+root         659       1  0 19:25 ?        00:00:00 /lib/systemd/systemd-logind
+root         664       1  0 19:25 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         665       1  0 19:25 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        690     621  0 19:25 ?        00:00:00 avahi-daemon: chroot helper
+root         706       1  0 19:25 ?        00:00:00 /usr/sbin/ModemManager
+root         710       1  0 19:25 ?        00:00:00 /usr/sbin/cupsd -l
+root         748       1  0 19:25 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         752       1  0 19:25 ?        00:00:00 /usr/sbin/gdm3
+root         759     752  0 19:25 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+aditya       772       1  0 19:25 ?        00:00:00 /lib/systemd/systemd --user
+aditya       773     772  0 19:25 ?        00:00:00 (sd-pam)
+root         784       1  0 19:25 ?        00:00:00 /usr/sbin/cups-browsed
+kernoops     791       1  0 19:25 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     794       1  0 19:25 ?        00:00:00 /usr/sbin/kerneloops
+aditya       838     772  0 19:25 ?        00:00:00 /usr/bin/pipewire
+aditya       839     772  0 19:25 ?        00:00:00 /usr/bin/pipewire-media-session
+aditya       840     772  0 19:25 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+aditya       844       1  0 19:25 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+rtkit        847       1  0 19:25 ?        00:00:00 /usr/libexec/rtkit-daemon
+aditya       853     759  0 19:25 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+aditya       855     772  0 19:25 ?        00:00:02 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+aditya       860     853  0 19:25 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+aditya       861     772  0 19:25 ?        00:00:00 /usr/libexec/gvfsd
+aditya       873     772  0 19:25 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+aditya       930     772  0 19:25 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+aditya       984     772  0 19:25 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+aditya      1002     984  0 19:25 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+aditya      1006     772  2 19:25 ?        00:00:46 /usr/bin/gnome-shell
+aditya      1014    1002  0 19:25 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+aditya      1032     772  0 19:25 ?        00:00:00 /usr/libexec/xdg-permission-store
+aditya      1037     772  0 19:25 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+aditya      1043     772  0 19:25 ?        00:00:00 /usr/libexec/evolution-source-registry
+aditya      1047     772  0 19:25 ?        00:00:00 /usr/libexec/dconf-service
+root        1050       1  0 19:25 ?        00:00:00 /usr/libexec/upowerd
+aditya      1053     772  0 19:25 ?        00:00:01 /usr/libexec/goa-daemon
+aditya      1061     772  0 19:25 ?        00:00:04 /usr/libexec/evolution-calendar-factory
+aditya      1072     772  0 19:25 ?        00:00:00 /usr/libexec/goa-identity-service
+aditya      1079     772  0 19:25 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+aditya      1090     772  0 19:25 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+aditya      1096     772  0 19:25 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+aditya      1105     772  0 19:25 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+aditya      1109     772  0 19:25 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+aditya      1115     772  0 19:25 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+root        1124       1  0 19:25 ?        00:00:00 /usr/libexec/packagekitd
+aditya      1131     861  0 19:25 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+aditya      1140     772  0 19:25 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+aditya      1143     772  0 19:25 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+aditya      1149     772  0 19:25 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+aditya      1151     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+aditya      1153    1149  0 19:25 ?        00:00:01 /usr/bin/ibus-daemon --panel disable
+aditya      1154     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-color
+aditya      1157     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-datetime
+aditya      1158     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-housekeeping
+aditya      1162     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-keyboard
+aditya      1169     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-media-keys
+aditya      1170     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-power
+aditya      1175     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-print-notifications
+aditya      1177     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-rfkill
+aditya      1178     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+aditya      1184     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-sharing
+aditya      1186     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-smartcard
+aditya      1196     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-sound
+aditya      1197     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-wacom
+aditya      1221     984  0 19:25 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+aditya      1227     984  0 19:25 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+aditya      1255     772  0 19:25 ?        00:00:00 /usr/libexec/gsd-printer
+aditya      1268    1153  0 19:25 ?        00:00:00 /usr/libexec/ibus-dconf
+aditya      1269    1153  0 19:25 ?        00:00:01 /usr/libexec/ibus-extension-gtk3
+aditya      1274     772  0 19:25 ?        00:00:00 /usr/libexec/ibus-portal
+aditya      1340    1153  0 19:25 ?        00:00:00 /usr/libexec/ibus-engine-simple
+colord      1363       1  0 19:25 ?        00:00:00 /usr/libexec/colord
+aditya      1371     772  0 19:25 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+aditya      1383     772  0 19:25 ?        00:00:00 /usr/libexec/xdg-document-portal
+aditya      1389     772  0 19:25 ?        00:00:03 /usr/libexec/tracker-miner-fs-3
+root        1392    1383  0 19:25 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+aditya      1396     772  0 19:25 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+aditya      1445     772  0 19:25 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+aditya      1485     772  0 19:26 ?        00:00:01 /usr/libexec/gvfsd-metadata
+aditya      1496    1006  0 19:26 ?        00:00:02 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:800:600:1:27:0:74:0:0
+aditya      1497     772  0 19:26 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+root        1517       1  0 19:26 ?        00:00:00 /usr/libexec/ubuntu-advantage-desktop-daemon
+root        1540       2  0 19:26 ?        00:00:00 [kworker/u2:5-ext4-rsv-conversion]
+aditya      1595     984  0 19:27 ?        00:00:00 update-notifier
+aditya      2068     772  0 19:27 ?        00:00:00 /snap/snapd-desktop-integration/49/usr/bin/snapd-desktop-integration
+aditya      2227    2068  0 19:28 ?        00:00:00 /snap/snapd-desktop-integration/49/usr/bin/snapd-desktop-integration
+root        2306       2  0 19:28 ?        00:00:00 [kworker/u2:6-events_unbound]
+aditya      2349     861  0 19:29 ?        00:00:00 /usr/libexec/gvfsd-http --spawner :1.6 /org/gtk/gvfs/exec_spaw/1
+geoclue     3334       1  0 19:29 ?        00:00:00 /usr/libexec/geoclue
+aditya      3376     772  0 19:30 ?        00:00:00 /usr/bin/gnome-calendar --gapplication-service
+aditya      3378     772  0 19:30 ?        00:00:03 /usr/libexec/gnome-terminal-server
+aditya      3379     772  0 19:30 ?        00:00:00 /usr/bin/seahorse --gapplication-service
+aditya      3464    3378  0 19:30 pts/0    00:00:00 bash
+aditya      3857    1006  0 19:32 ?        00:00:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.T4DS41 -listen 4 -listen 5 -displayfd 6 -initfd 7
+aditya      3860     772  0 19:32 ?        00:00:00 /usr/libexec/gsd-xsettings
+aditya      3888     772  0 19:32 ?        00:00:00 /usr/libexec/ibus-x11
+aditya      4443     844  0 19:34 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+root        4823       2  0 19:41 ?        00:00:00 [kworker/u2:1-events_power_efficient]
+root        4837       2  0 19:48 ?        00:00:00 [kworker/u2:0-events_unbound]
+aditya      4839    3464  0 19:51 pts/0    00:00:00 ps -ef
